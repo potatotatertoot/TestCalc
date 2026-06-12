@@ -16,17 +16,17 @@
 
 An interactive LC-3 program that reads five single digits from the keyboard, stores
 them in an array, then computes and displays the **sum** and the **product** of those
-values. The product path detects 16-bit signed overflow.
+values. The product path detects 16-bit signed overflow
 
 The goal of this report is to document the work split, map each rubric requirement to
 the code, record the testing performed against the required values, and analyze the
-program's limitations, performance, efficiency, and possible improvements.
+program's limitations, performance, efficiency, and possible improvements
 
 ---
 
 ## 2. Team Work Distribution
 
-The program was divided into three modules the first two that I did on my own. Last module completed in the mindset that the first two modules were completed by other people.
+The program was divided into three modules the first two that I did on my own. Last module completed in the mindset that the first two modules were completed by other people
 
 | Member | Modules Owned | Rubric Items Covered |
 |--------|---------------|----------------------|
@@ -62,15 +62,15 @@ Reference to Rubric
 
 1. Open `array_stats.asm` 
 2. Assemble the file
-3. Load the object file and set the PC to `x3000`.
-4. Run. When prompted, type five single digits (0–9). No Enter key is required between digits.
-5. Read the Sum and Product printed in the console. Capture a screenshot for each test case below.
+3. Load the object file and set the PC to `x3000`
+4. Run. When prompted, type five single digits (0–9). No Enter key is required between digits
+5. Read the Sum and Product printed in the console. Capture a screenshot for each test case below
 
 ---
 
 ## 5. Sample Expected Console Output
 
-Reference output for Test 1 (input `1 2 3 4 5`).
+Reference output for Test 1 (input `1 2 3 4 5`)
 
 ```
 ===== LC-3 ARRAY SUM & PRODUCT CALCULATOR =====
@@ -91,7 +91,7 @@ Product of values = 120
 The program was tested against the required values below, including a zero case
 (product = 0), an overflow case (9×9×9×9×9 = 59049 exceeds the 16-bit signed range),
 and an in-range multi-digit case. Record actual results and mark Pass/Fail, then paste
-the matching screen capture under each test.
+the matching screen capture under each test
 
 | # | Input (5 digits) | Expected Sum | Expected Product | Pass / Fail |
 |---|------------------|--------------|------------------|-------------|
@@ -140,4 +140,4 @@ VIEW SCREENSHOTS BELOW
 
 ## 9. Conclusion
 
-It was fun building this project. I like programs where you don't have to hit enter and it will prompt you the next section to fill out so it was cool to build one of those. Also building a meaningful program that may be useful in the future to average tests that was built with knowledge I learned throughout the course is cool.
+It was fun building this project. I like programs where you don't have to hit enter and it will prompt you the next section to fill out so it was cool to build one of those. Also building a meaningful program that may be useful in the future to average tests that was built with knowledge I learned throughout the course is cool
