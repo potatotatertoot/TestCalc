@@ -1,0 +1,3 @@
+Project option implemented: an interactive LC-3 program that reads five single digits from the keyboard, stores them in an array, then computes and displays the sum and the product of those values. The product path detects 16-bit signed overflow. 
+
+Goal of this report: document the work split, map each rubric requirement to the code, record the testing performed against the required values, and analyze the program's limitations, performance, efficiency, and possible improvements. 
