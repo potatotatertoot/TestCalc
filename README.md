@@ -9,7 +9,6 @@ stores them in an array via a pointer, and computes and prints their **sum** and
 | File | Purpose |
 |------|---------|
 | `array_stats.asm` | The complete LC-3 source program |
-| `README.md` | This file |
 
 ## Build & Run
 
