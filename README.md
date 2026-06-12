@@ -14,7 +14,7 @@ stores them in an array via a pointer, and computes and prints their **sum** and
 
 1. Open `array_stats.asm` in an LC-3 toolchain
 2. Assemble the file
-3. Load the object file and set the PC to `x3000`.
+3. Load the object file and set the PC to `x3000`
 4. Run. When prompted, type **five single digits (0–9)**. No Enter
    is needed between them
 5. Read the Sum and Product printed in the console
