@@ -108,7 +108,7 @@ the matching screen capture under each test.
 ALL TESTS PASSED THE PLAN  
 VIEW SCREENSHOTS BELOW 
 
-<img width="538" height="395" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/b169251d-4493-467a-b030-7e829a1b1979" />
+<img width="538" height="395" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/b169251d-4493-467a-b030-7e829a1b1979" /> <img width="526" height="393" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/e7f0f4ce-21d4-49c5-8194-f99e2fa8ecec" />
 <img width="526" height="393" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/e7f0f4ce-21d4-49c5-8194-f99e2fa8ecec" />
 
 <img width="472" height="359" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/d60fdb0e-ad98-474f-8f31-166d59fe5209" />
